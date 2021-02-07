@@ -1,2 +1,1 @@
-node app.js
-pause
+node app.js >/dev/null
