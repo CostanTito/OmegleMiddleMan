@@ -5,8 +5,8 @@ OmegleMiddleMan
 
 ### Requirements / Setup
  - You need [Node.js](http://nodejs.org/)
- - Open the `install.bat` file, this file will install the required files to run the server
- - Run the `Run.bat` file, which will start the server
+ - Run `bash install`, this file will install the required files to run the server
+ - Run `bash Run`, which will start the server
  - By default, it listens on port 3000, you can access the client by going to `localhost:3000` in your webbrower
 
 ### Onscreen options
