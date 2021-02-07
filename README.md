@@ -2,6 +2,7 @@ OmegleMiddleMan
 ===============
 
  - Lets you connect to two or more clients, then middle man the conversation, allowing you to intercept, change and even add new messages.
+ - This just is a GNU/Linux friendly version of the source program, no major change has been made, all the credit goest to the author.
 
 ### Requirements / Setup
  - You need [Node.js](http://nodejs.org/)
